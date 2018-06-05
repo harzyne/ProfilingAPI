@@ -1,0 +1,45 @@
+@model IEnumerable<ScoreAPI.Models.User>  
+     
+@{  
+        ViewData["Title"] = "Index";  
+    }  
+<h2>All User Details</h2>  
+ 
+<table class="table">  
+    <thead>  
+        <tr>  
+            <th>  
+                @Html.DisplayNameFor(model => model.Name)  
+            </th>  
+            <th>  
+                @Html.DisplayNameFor(model => model.Answer1)  
+            </th>  
+            <th>  
+                @Html.DisplayNameFor(model => model.Answer2)  
+            </th>  
+            <th></th>  
+        </tr>  
+    </thead>  
+    <tbody>  
+        @foreach (var item in Model)  
+{  
+            <tr>  
+                <td>  
+                    @Html.DisplayFor(modelItem => item.Name)  
+                </td>  
+                <td>  
+                    @Html.DisplayFor(modelItem => item.Answer1)  
+                </td>  
+                <td>  
+                    @Html.DisplayFor(modelItem => item.Answer2)  
+                </td>  
+                <td>  
+                   
+                    <a asp-action="Details" asp-route-id="@item.UserId">Details</a>  
+
+                </td>  
+            </tr>  
+        }  
+    </tbody>  
+</table>  
+<h4>Click to add new Details : </h4>  <a asp-action="Create">Create New</a> 

@@ -1,0 +1,11 @@
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\obj\Debug\netcoreapp2.0\ScoreAPI.csprojAssemblyReference.cache
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\obj\Debug\netcoreapp2.0\ScoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\obj\Debug\netcoreapp2.0\ScoreAPI.AssemblyInfoInputs.cache
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\obj\Debug\netcoreapp2.0\ScoreAPI.AssemblyInfo.cs
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\bin\Debug\netcoreapp2.0\ScoreAPI.deps.json
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\bin\Debug\netcoreapp2.0\ScoreAPI.runtimeconfig.json
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\bin\Debug\netcoreapp2.0\ScoreAPI.runtimeconfig.dev.json
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\bin\Debug\netcoreapp2.0\ScoreAPI.dll
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\bin\Debug\netcoreapp2.0\ScoreAPI.pdb
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\obj\Debug\netcoreapp2.0\ScoreAPI.dll
+C:\Users\harzyne.varatharajah\Documents\bambu\BE_Test\ScoreAPI\obj\Debug\netcoreapp2.0\ScoreAPI.pdb
